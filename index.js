@@ -6,4 +6,4 @@ function cat3() {
     }
 }
 
-console.log(cat3());
+cat3();
